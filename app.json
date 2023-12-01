@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "GOCAL-FIGMA",
+    "slug": "GOCAL-FIGMA",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favicon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/gocal.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#37B874",
+      "text": "vamos",
+      "padding": 50
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/gocal.png",
+        "backgroundColor": "#ffffff",
+        "text": "Hello"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
