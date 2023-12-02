@@ -2,9 +2,11 @@
 Aplicativo para o cálculo de IMC feito com React Native e navegação no modelo Stack. Trata-se de um aplicativo com três telas e gerencimento global de estados.
 
 <p align="center">
-  <img src="https://github.com/Arthur-Candeia/gocal/blob/master/assets/imgToReadme1.png" width="200" >
-  <img src="https://github.com/Arthur-Candeia/gocal/blob/master/assets/imgToReadme2.png" width="200">
-  <img src="https://github.com/Arthur-Candeia/gocal/blob/master/assets/imgToReadme3.png" width="200">
+  <img src="https://github.com/Arthur-Candeia/gocal/blob/master/assets/imgToReadme1.png" width="200" height="450" style="max-width:100%" >
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Arthur-Candeia/gocal/blob/master/assets/imgToReadme2.png" width="200" height="450" style="max-width:100%" >
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Arthur-Candeia/gocal/blob/master/assets/imgToReadme3.png" width="200" height="450" style="max-width:100%" >
 </p>
 
 ### O que está presente na aplicação?
